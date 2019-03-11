@@ -12,6 +12,7 @@
 		22E8F56A22323E480053FE0B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22E8F56822323E480053FE0B /* Main.storyboard */; };
 		22E8F56C22323E5A0053FE0B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22E8F56B22323E5A0053FE0B /* Assets.xcassets */; };
 		22E8F56F22323E5A0053FE0B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22E8F56D22323E5A0053FE0B /* LaunchScreen.storyboard */; };
+		22E8F57722324DE80053FE0B /* jsonparse.json in Resources */ = {isa = PBXBuildFile; fileRef = 22E8F57622324DE80053FE0B /* jsonparse.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		22E8F56B22323E5A0053FE0B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		22E8F56E22323E5A0053FE0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		22E8F57022323E5A0053FE0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22E8F57622324DE80053FE0B /* jsonparse.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = jsonparse.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		22E8F56322323E480053FE0B /* jsonParserExample */ = {
 			isa = PBXGroup;
 			children = (
+				22E8F57622324DE80053FE0B /* jsonparse.json */,
 				22E8F56422323E480053FE0B /* AppDelegate.swift */,
 				22E8F56622323E480053FE0B /* ViewController.swift */,
 				22E8F56822323E480053FE0B /* Main.storyboard */,
@@ -125,6 +128,7 @@
 				22E8F56F22323E5A0053FE0B /* LaunchScreen.storyboard in Resources */,
 				22E8F56C22323E5A0053FE0B /* Assets.xcassets in Resources */,
 				22E8F56A22323E480053FE0B /* Main.storyboard in Resources */,
+				22E8F57722324DE80053FE0B /* jsonparse.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
